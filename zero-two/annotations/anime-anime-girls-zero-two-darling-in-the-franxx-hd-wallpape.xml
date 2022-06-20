@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>anime-anime-girls-zero-two-darling-in-the-franxx-hd-wallpape.jpg</filename>
+	<path>F:\Anderes\ai\Anilyze\Anilyze-train\Anilyze-dataset\zero-two\images\anime-anime-girls-zero-two-darling-in-the-franxx-hd-wallpape.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>728</width>
+		<height>1294</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>zeroTwo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>238</xmin>
+			<ymin>85</ymin>
+			<xmax>485</xmax>
+			<ymax>386</ymax>
+		</bndbox>
+	</object>
+</annotation>

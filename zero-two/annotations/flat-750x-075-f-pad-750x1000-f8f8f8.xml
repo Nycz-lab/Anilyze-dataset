@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>flat-750x-075-f-pad-750x1000-f8f8f8.jpg</filename>
+	<path>F:\Anderes\ai\Anilyze\Anilyze-train\Anilyze-dataset\zero-two\images\flat-750x-075-f-pad-750x1000-f8f8f8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>zeroTwo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>291</xmin>
+			<ymin>40</ymin>
+			<xmax>489</xmax>
+			<ymax>270</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Zero-Two--Darling-in-the-FranXX--full-3042661.jpg</filename>
+	<path>F:\Anderes\ai\Anilyze\Anilyze-train\Anilyze-dataset\zero-two\images\Zero-Two--Darling-in-the-FranXX--full-3042661.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>zeroTwo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>746</xmin>
+			<ymin>28</ymin>
+			<xmax>2946</xmax>
+			<ymax>2249</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>536-5368307_anime-girl-zero-two-hd-png-download.png</filename>
+	<path>F:\Anderes\ai\Anilyze\Anilyze-train\Anilyze-dataset\zero-two\images\536-5368307_anime-girl-zero-two-hd-png-download.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>860</width>
+		<height>1174</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>zeroTwo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>274</xmin>
+			<ymin>43</ymin>
+			<xmax>584</xmax>
+			<ymax>415</ymax>
+		</bndbox>
+	</object>
+</annotation>
